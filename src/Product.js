@@ -2,8 +2,8 @@ import React from "react";
 import { useDispatch } from "react-redux";
 import { addToCart , removeFromCart } from "./Actions/Cart";
 
-import { Card } from "react-bootstrap";
-import Button from "react-bootstrap";
+import  Card  from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
 
 
 
